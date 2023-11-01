@@ -1,0 +1,102 @@
+#from Constant import *
+#num = 1
+#greeting = "Hello world"
+#prints hello world on the console
+#print(greeting, num + 2)
+#print(type(num))
+#print(type(greeting
+#x = 1
+#def kys():
+   # global x
+  #  x = "diabetesfrenchisdumbbangladeshisevendumber"
+    
+ #   print(x)
+
+ 
+#kys()
+#print(x)
+
+
+#print(PI)
+
+
+
+
+#array=[420,69,911,2001]
+#print(array[1])
+#inputs=int(input("input a number"))
+#for i in array:
+  #  if inputs==array[i]:
+       # print("its therebbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb")
+
+#thisdict = {
+   # "Brand" : "car",
+  #  "model" : "4 wheels",
+  #  "YEI" : "963"
+  #  }
+
+#print(thisdict)
+
+#print(7**7)
+#x=34
+#x//=35
+#print(x)
+
+#a = 9
+#b = 6
+#if a < b:
+  #  print("Meow")
+#else:
+   # print("Rar")
+
+#a = 9
+#b = 6
+#if  ~a < 10 & b > 5:
+   # print("Meow")
+#else:
+   # print("Rar")
+
+#f= open("C:\\Users\Staff\Documents\dog.txt", "r")
+#print(f.read())
+#counter = 1
+#x = True
+#while x == True and counter <= 5:
+    #print("rawr")
+   # counter = counter +1
+
+#for i in range(3):
+   # print("kys")
+
+
+#def add(x = 20 , y = 56 ):
+  
+
+  #return x, y
+   
+
+
+
+#def subtract(x = 20 , y = 56 ):
+  
+
+ # return x, y
+
+
+#result = add(add(), subtract())
+#print(result)
+
+
+
+#x = round(5.5)
+#print(x)
+
+
+
+#name = ""
+#while name == "":
+    #name = input("State thy name! ")
+    #if " " in name:
+       # print("Thy name not stated?!")
+       # name = ""
+
+#print("Well done", name)
